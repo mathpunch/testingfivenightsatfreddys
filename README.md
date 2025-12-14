@@ -1,4 +1,4 @@
-# Five Nights at Freddy’s 1 – Exact Browser Replica
+# Five Nights at Freddy’s 1 – Full Browser Experience
 
 This project is a **faithful 1:1 recreation** of **Five Nights at Freddy’s 1**, fully playable on both **desktop and mobile browsers**. Developed using **HTML5** and **JavaScript**, it faithfully replicates the original gameplay mechanics, visuals, and user experience.
 
