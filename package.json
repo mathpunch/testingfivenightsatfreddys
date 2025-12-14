@@ -1,0 +1,23 @@
+{
+  "name": "testingfivenightsatfreddys",
+  "version": "1.0.0",
+  "description": "1:1 browser recreation of Five Nights at Freddy's 1 using HTML5 and JavaScript, playable on PC and mobile.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "FNaF",
+    "Five Nights at Freddy's",
+    "HTML5",
+    "JavaScript",
+    "browser-game",
+    "electron"
+  ],
+  "author": "mathpunch Official ツ",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.0.0",
+    "electron-packager": "^17.1.0"
+  }
+}
