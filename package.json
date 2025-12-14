@@ -6,18 +6,10 @@
   "scripts": {
     "start": "electron ."
   },
-  "keywords": [
-    "FNaF",
-    "Five Nights at Freddy's",
-    "HTML5",
-    "JavaScript",
-    "browser-game",
-    "electron"
-  ],
-  "author": "mathpunch Official ツ",
+  "author": "[mathpunch Official ツ]",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^26.0.0",
-    "electron-packager": "^17.1.0"
+    "electron": "^39.2.7",
+    "electron-packager": "^17.1.2"
   }
 }
