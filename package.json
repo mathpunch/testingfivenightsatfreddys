@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "author": "[Your Name / GitHub Username]",
+  "author": "mathpunch Official ツ",
   "license": "MIT",
   "devDependencies": {
     "electron": "^39.2.7",
