@@ -21,5 +21,5 @@ This project is a **faithful 1:1 recreation** of **Five Nights at Freddy’s 1**
 
 ## Credits
 - **Original Game:** Scott Cawthon – [Five Nights at Freddy’s](https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/)  
-- **This Project:** [mathpunch Official ツ]  
+- **This Project:** mathpunch Official ツ  
 - **Assets & Media:** Sourced from original game files for accurate recreation  
